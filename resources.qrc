@@ -1,0 +1,8 @@
+<RCC>
+    <qresource prefix="/icons">
+        <file alias="spin-up-dark.svg">assets/icons/spin-up-dark.svg</file>
+        <file alias="spin-down-dark.svg">assets/icons/spin-down-dark.svg</file>
+        <file alias="spin-up-light.svg">assets/icons/spin-up-light.svg</file>
+        <file alias="spin-down-light.svg">assets/icons/spin-down-light.svg</file>
+    </qresource>
+</RCC>

@@ -1,0 +1,10 @@
+/build/
+/.vs/
+/.idea/
+*.user
+*.db
+*.db-shm
+*.db-wal
+*.log
+*.log.1
+/docs/面试问答.md
